@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "patientId": "040435497",
+    "doctorId": "13",
+    "appointmentDate": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "patientId": "1",
+    "doctorId": "1",
+    "appointmentDate": "2023-12-02T11:00:00Z"
+  },
+  {
+    "id": "3",
+    "patientId": "2",
+    "doctorId": "2",
+    "appointmentDate": "2023-12-03T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "patientId": "040435497",
+    "doctorId": "15",
+    "appointmentDate": "2023-12-20T10:00:00Z"
+  }
+]

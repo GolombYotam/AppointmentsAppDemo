@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Pediatricians",
+    "description": "Primary care doctors who manage the overall health, growth, and development of children from birth to adolescence.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 2,
+    "name": "Pediatric Nurse Practitioners (PNPs)",
+    "description": "Advanced practice nurses who provide primary and specialty care to children, often working in collaboration with pediatricians.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 3,
+    "name": "Pediatric Dentists",
+    "description": "Specialists in oral health care for children, including preventive care, diagnosis, and treatment of dental issues.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 4,
+    "name": "Pediatric Psychiatrists",
+    "description": "Doctors who specialize in diagnosing and treating mental health disorders in children and adolescents.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 5,
+    "name": "Child Psychologists",
+    "description": "Professionals who provide psychological assessments and therapy for children with emotional, behavioral, and developmental issues.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 6,
+    "name": "Pediatric Occupational Therapists (OTs)",
+    "description": "Specialists who help children develop or regain skills needed for daily living and school activities.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 7,
+    "name": "Pediatric Physical Therapists (PTs)",
+    "description": "Professionals who work with children to improve their physical functioning, mobility, and strength.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 8,
+    "name": "Speech-Language Pathologists (SLPs)",
+    "description": "Experts who diagnose and treat speech, language, and communication disorders in children.",
+    "crowdType": "under18"
+  },
+  {
+    "id": 9,
+    "name": "Family Medicine Physicians",
+    "description": "Primary care doctors who provide comprehensive health care for individuals of all ages, managing a wide range of medical conditions.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 10,
+    "name": "Internal Medicine Physicians (Internists)",
+    "description": "Doctors who specialize in the prevention, diagnosis, and treatment of adult diseases.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 11,
+    "name": "Geriatricians",
+    "description": "Specialists in the health care of older adults, focusing on the unique needs and medical issues of the elderly.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 12,
+    "name": "Psychiatrists",
+    "description": "Doctors who diagnose and treat mental health disorders in adults, including conditions like depression, anxiety, and bipolar disorder.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 13,
+    "name": "Cardiologists",
+    "description": "Specialists in diagnosing and treating heart and cardiovascular system conditions.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 14,
+    "name": "Endocrinologists",
+    "description": "Doctors who treat hormonal disorders such as diabetes, thyroid issues, and metabolic disorders.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 15,
+    "name": "Gastroenterologists",
+    "description": "Specialists who diagnose and treat disorders of the digestive system, including the stomach, intestines, liver, and pancreas.",
+    "crowdType": "over18"
+  },
+  {
+    "id": 16,
+    "name": "Orthopedic Surgeons",
+    "description": "Doctors who specialize in the diagnosis and surgical treatment of musculoskeletal system issues, including bones, joints, ligaments, tendons, and muscles.",
+    "crowdType": "over18"
+  }
+]
+

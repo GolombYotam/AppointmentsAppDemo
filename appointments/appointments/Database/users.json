@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "040435497",
+      "birthDate": "29/07/1981",
+      "firstName": "Yotam",
+      "lastName": "Golomb",
+      "phoneNumber": "054-7987846",
+      "email": "golomb.yotam@gmail.com",
+      "crowdType": "over18",
+      "kids": [
+        {
+          "id": "1",
+          "birthDate": "04/08/2012",
+          "firstName": "Lia",
+          "lastName": "Golomb",
+          "phoneNumber": "",
+          "email": "",
+          "crowdType": "under18"
+        },
+        {
+          "id": "2",
+          "birthDate": "26/12/2013",
+          "firstName": "Anne",
+          "lastName": "Golomb",
+          "phoneNumber": "",
+          "email": "",
+          "crowdType": "under18"
+        },
+        {
+          "id": "3",
+          "birthDate": "01/06/2020",
+          "firstName": "Lior",
+          "lastName": "Golomb",
+          "phoneNumber": "",
+          "email": "",
+          "crowdType": "under18"
+        }
+      ]
+    }
+  ]
+}
+
